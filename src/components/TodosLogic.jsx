@@ -1,6 +1,6 @@
 import { useEffect, useState } from "react";
 import InputTodo from "./InputTodo";
-import Todoslist from "./Todoslist";
+import Todoslist from "./TodosList";
 import { v4 as uuidv4 } from "uuid";
 
 
@@ -73,6 +73,7 @@ const TodosLogic = () => {
         todosProps={todos}
         handleChange={handleChange}
         delTodo={delTodo}
+        setUpdate={setUpdate}
       />
     </>
   )
