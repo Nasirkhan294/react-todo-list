@@ -1,7 +1,7 @@
 <a name="readme-top"></a>
 
 <div align="center">
-  <h3><b>React Todo List</b></h3>
+  <h1><b>React Todo List</b></h1>
 
 </div>
 
@@ -29,7 +29,7 @@
 
 # 📖 To-do List <a name="about-project"></a>
 
-**To-do List:** This is a simple web-based TODO list application built using React and CSS. The application allows users to create, read, update, and delete tasks from their to-do list. Users can mark tasks as completed, sort them by priority, and search for specific tasks. It uses local storage to store the user's tasks, so they don't have to worry about losing their data. This project is a great starting point for those who want to learn web development or want to build their own task management application.
+**To-do List:** This is a simple web-based TODO list application built using React and CSS. The application allows users to create, read, update, and delete tasks from their to-do list. Users can mark tasks as completed, sort them by priority. It uses local storage to store the user's tasks, so they don't have to worry about losing their data. This project is a great starting point for those who want to learn web development or want to build their own task management application.
 
 ## 🛠 Built With <a name="built-with"></a>
 
@@ -53,7 +53,7 @@
 
 ## 🚀 Live Demo <a name="live-demo"></a>
 
-- [Live Project Demo]
+- [Live Project Demo](react-todo-list294.netlify.app/)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
